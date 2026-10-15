@@ -14,3 +14,4 @@ Heis using the smae thing and now doing soime of the great tyhings. ---
 
 -item
 >Quote
+`puts "Hi"`
