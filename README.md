@@ -3,5 +3,4 @@
 ## Amit Samal Daily Practice
 
 ### Day 12
-
-*** Hello, this is practice md file ***
+** Bold the statement in this **
