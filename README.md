@@ -15,6 +15,6 @@ Heis using the smae thing and now doing soime of the great tyhings. ---
 -item
 >Quote<br>
 `Highlighting`<br>
-(https://google.com)
+[Google Hyperlink the text syntax](https://google.com)
 
 
