@@ -14,4 +14,4 @@ Heis using the smae thing and now doing soime of the great tyhings. ---
 
 -item
 >Quote<br>
-`puts "Hi"`
+`Highlighting`
