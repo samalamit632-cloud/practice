@@ -14,6 +14,7 @@ Heis using the smae thing and now doing soime of the great tyhings. ---
 
 -item
 >Quote<br>
-`Highlighting`
-[Google]htttp
+`Highlighting`<br>
+[Google](https://google.com)
+
 
