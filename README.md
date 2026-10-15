@@ -16,6 +16,7 @@ Heis using the smae thing and now doing soime of the great tyhings. ---
 >Quote<br>
 `Highlighting`<br>
 [Google Hyperlink the text syntax](https://google.com)<br>
-[Alt](image.png)
+![Alt](image.png)
+
 
 
