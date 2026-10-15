@@ -10,4 +10,4 @@
 
 I am using this tools to see what i can do and how i can manage all this things let me check first
 
-Heis using the smae thing and now doing soime of the great tyhings. ------
+Heis using the smae thing and now doing soime of the great tyhings. ---
